@@ -1,4 +1,4 @@
-# Learning to read the mind: Decoding of inner and imagined speech from EEG signals via Machine learning
+# Learning to read the mind: Decoding of inner and imagined speech from real time EEG signals via Machine learning
 
 This page contains the code for the analysis performed in my final year project/dissertation for MSc Data Science at the University of Bath. 
 
